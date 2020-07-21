@@ -1,0 +1,22 @@
+#heading{
+    background-color: rgb(234, 0, 255);
+    height: 70px;
+    padding-top: 10px;
+}
+
+#mypicture{
+    background-color: aqua;
+    height: 300px;
+    width: 500px;
+    float: left;
+    /* display: inline; */
+    margin: 80px 10px 25px 20px;
+}
+#bio{
+    background-color: blue;
+    height: 300px;
+    width: 564px;
+    float: left;
+    display: inline;
+    margin: 80px 70px 25px 10px;
+}
